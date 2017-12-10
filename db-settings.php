@@ -1,10 +1,10 @@
 <?php
 
 //Development Database Information
-$db_host = "localhost"; //Host address (most likely localhost)
-$db_name = "customermanager"; //Name of Database
-$db_user = "root"; //Name of database user
-$db_pass = ""; //Password for database user
+$db_host = "us-cdbr-iron-east-05.cleardb.net"; //Host address (most likely localhost)
+$db_name = "heroku_effe246c3ed036c"; //Name of Database
+$db_user = "be33ef03558a63"; //Name of database user
+$db_pass = "f4588f7f"; //Password for database user
 $db_table_prefix = ""; // if the table prefix exists use this variable as a global
 
 
